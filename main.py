@@ -39,7 +39,11 @@ def on_activate(i):
         pyperclip.copy(copied_texts[-i])
 
         if platform.system() == "Darwin":  
-            os.system("pbpaste | pbcopy")
+            controller = keyboard.Controller()
+            controller.press(keyboard.Key.cmd_l)
+            controller.press('v')
+            controller.release('v')
+            controller.release(keyboard.Key.cmd_l)
         else: 
             controller = keyboard.Controller()
             controller.press(keyboard.Key.ctrl_l)
