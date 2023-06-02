@@ -61,7 +61,7 @@ TurboClip was inspired by the need for a fast and efficient copying and pasting 
 
 ## Support 📞
 
-If you encounter any issues or have questions about TurboClip, please feel free to [open an issue](https://github.com/your-username/Turbo-Clip/issues). We'll be glad to assist you!
+If you encounter any issues or have questions about TurboClip, please feel free to [open an issue](https://github.com/Yusuf-YENICERI/Turbo-Clip/issues). We'll be glad to assist you!
 
 ---
 
