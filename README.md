@@ -14,11 +14,11 @@ TurboClip is a Python application that allows you to enhance your copying and pa
 
 1. Clone the TurboClip repository from GitHub:
 ```
-git clone https://github.com/your-username/TurboClip.git
+git clone https://github.com/Yusuf-YENICERI/Turbo-Clip.git
 ```
 2. Navigate to the TurboClip directory:
 ```
-cd TurboClip
+cd Turbo-Clip
 ```
 3. Install the required dependencies:
 ```
@@ -27,9 +27,9 @@ pip3 install -r requirements.txt
 
 ## Usage 🚀
 
-1. Run TurboClip by executing the `turboClip.py` file:
+1. Run TurboClip by executing the `main.py` file:
 ```
-python3 turboClip.py
+python3 main.py
 ```
 2. TurboClip will start running in the background, monitoring your key presses.
 
